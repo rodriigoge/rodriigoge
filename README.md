@@ -1,9 +1,15 @@
-Hi there 👋 I'm Software Developer at [HST](https://hst.com.br/pt-br/). 
+Hi there 👋 I'm a Backend Software Engineer
 
-With over 5 years of professional experience, I have contributed to numerous projects in various areas, ranging from payment processing and financial transactions to healthcare management systems.
+With over 7 years of experience building software, I focus on developing scalable, secure, and high-performance backend systems, especially in the financial and payment processing domain across Latin America.
 
-In addition to contributing to open-source projects, I have experience in general software development, from architecture to the final product.
+I have strong experience with Java (17+), Spring Boot, microservices, and event-driven architectures, working with distributed systems and REST APIs. I also have experience with SQL and NoSQL databases, automated testing, CI/CD, and software engineering best practices such as SOLID, Clean Code, and Design Patterns.
 
-For a more detailed description of my professional experience, academic background, and certifications, you can find me on [LinkedIn](https://www.linkedin.com/in/rgestevao/). I am also available for contact via email: rgestevao@gmail.com.
+Currently, I work on mission-critical financial systems, contributing to architectural evolution, performance improvements, and production-grade solutions used by major players like Mastercard, Visa, and Elo . I also act as a technical reference within the team, supporting decision-making and helping drive quality and consistency across projects.
 
-How to reach me [rgestevao.vercel.app](https://rgestevao.vercel.app/)
+My experience spans the full software development lifecycle, from design and planning to delivery and continuous improvement, always with a strong focus on performance, scalability, and maintainability.
+
+For a more detailed description of my professional experience, academic background, and certifications, you can find me on [LinkedIn](https://www.linkedin.com/in/rgestevao/)
+
+How to reach me 
+- rgestevao@gmail.com 
+- [rodrigoge.vercel.app](https://rodrigoge.vercel.app/)
