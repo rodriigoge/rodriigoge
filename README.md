@@ -1,15 +1,36 @@
-Hi there 👋 I'm a Backend Software Engineer
+<div align="center">
 
-With over 7 years of experience building software, I focus on developing scalable, secure, and high-performance backend systems, especially in the financial and payment processing domain across Latin America.
+# Hi, I'm Rodrigo 👋
 
-I have strong experience with Java (17+), Spring Boot, microservices, and event-driven architectures, working with distributed systems and REST APIs. I also have experience with SQL and NoSQL databases, automated testing, CI/CD, and software engineering best practices such as SOLID, Clean Code, and Design Patterns.
+### Backend Software Engineer · Distributed Systems · Software Architecture
 
-Currently, I work on mission-critical financial systems, contributing to architectural evolution, performance improvements, and production-grade solutions used by major players like Mastercard, Visa, and Elo . I also act as a technical reference within the team, supporting decision-making and helping drive quality and consistency across projects.
+Building reliable, scalable software and turning complex challenges into simpler solutions.
 
-My experience spans the full software development lifecycle, from design and planning to delivery and continuous improvement, always with a strong focus on performance, scalability, and maintainability.
+<img src="./avatar-draw-transparent.gif" alt="Animated hand-drawn illustration" width="300" />
 
-For a more detailed description of my professional experience, academic background, and certifications, you can find me on [LinkedIn](https://www.linkedin.com/in/rgestevao/)
+[**Portfolio**](https://rodrigoge.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/rgestevao/) · [**Email**](mailto:rgestevao@gmail.com)
 
-How to reach me 
-- rgestevao@gmail.com 
-- [rodrigoge.vercel.app](https://rodrigoge.vercel.app/)
+</div>
+
+---
+
+### About me
+
+I'm a backend software engineer with **7+ years of experience** developing and evolving software, primarily in the **financial services and payments** domain.
+
+I work with **Java, Kotlin, Spring Boot, microservices, REST APIs, and event-driven architectures**, with a focus on building systems that are reliable, maintainable, and ready to evolve.
+
+My experience includes architectural modernization, integrations, SQL and NoSQL databases, automated testing, and CI/CD. I value clear technical decisions, collaboration, and continuous learning—always aiming to solve the right problem, not just write more code.
+
+### What I work with
+
+- **Backend:** Java 17+, Kotlin, Spring Boot, REST APIs, Microservices
+- **Architecture & Messaging:** Distributed Systems, Event-Driven Architecture, Kafka, RabbitMQ
+- **Data & Delivery:** SQL, NoSQL, Docker, Kubernetes, CI/CD, Automated Testing
+- **Engineering practices:** SOLID, Clean Code, Design Patterns
+
+### Let's connect
+
+I'm always happy to exchange ideas, share experiences, or talk about technology.
+
+**[rgestevao@gmail.com](mailto:rgestevao@gmail.com)** · **[Portfolio](https://rodrigoge.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/rgestevao/)**
