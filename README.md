@@ -10,7 +10,7 @@
 ---
 
 ### Welcome 👋
-<p align="justify"> I'm a backend software engineer with <b>7+ years of experience</b> developing and evolving software, primarily in the <b>financial services and payments</b> domain.I work with <b>Java, Kotlin, Spring Boot, microservices, REST APIs, and event-driven architectures</b>, with a focus on building systems that are reliable, maintainable, and ready to evolve. My experience includes architectural modernization, integrations, SQL and NoSQL databases, automated testing, and CI/CD. I value clear technical decisions, collaboration, and continuous learning—always aiming to solve the right problem, not just write more code. </p>
+<p align="justify"> I'm a backend software engineer with <b>7+ years of experience</b> developing and evolving software, primarily in the <b>financial services and payments</b> domain. I work with <b>Java, Kotlin, Spring Boot, microservices, REST APIs, and event-driven architectures</b>, with a focus on building systems that are reliable, maintainable, and ready to evolve. My experience includes architectural modernization, integrations, SQL and NoSQL databases, automated testing, and CI/CD. I value clear technical decisions, collaboration, and continuous learning—always aiming to solve the right problem, not just write more code. </p>
 
 ### What I work with
 
